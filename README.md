@@ -59,6 +59,12 @@ cd Traffic_Monitoring_Object_Tracking
 Using `uv` allows you to skip manual virtual environment creation and dependency management. Simply run:
 
 ```bash
+uv venv --python 3.11
+```
+
+This command will create the python 3.11 virtual environment then run the command below
+
+```bash
 uv sync
 
 ```
