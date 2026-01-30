@@ -1,0 +1,8 @@
+dearpygui
+gputil
+onnx
+numpy
+ultralytics
+lapx
+onnxruntime-gpu
+opencv-python
