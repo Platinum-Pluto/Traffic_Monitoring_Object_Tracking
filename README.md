@@ -92,3 +92,6 @@ uv run main.py
 ```
 
 This ensures the code runs with the exact dependencies required for the project.
+
+---
+## Remember to place the inference video the project folder.
