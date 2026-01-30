@@ -1,0 +1,17 @@
+[project]
+name = "traffic-monitoring-object-tracking"
+version = "0.1.0"
+description = "Traffic monitoring optimized for RTX 2060 Super"
+readme = "README.md"
+requires-python = ">=3.11,<3.12"
+dependencies = [
+    "dearpygui>=2.1.1",
+    "gputil>=1.4.0",
+    "onnx>=1.16.0",
+    "numpy<2",
+    "pytz>=2025.2",
+    "supervision>=0.27.0",
+    "ultralytics>=8.3.0",
+    "lapx>=0.9.4",
+    "onnxruntime-gpu>=1.17.0,<1.20.0",
+]
