@@ -7,6 +7,14 @@ The system also displays all detected objects and their bounding boxes with ID a
 ---
 
 
+## GUI Demonstration
+
+https://github.com/Platinum-Pluto/Traffic_Monitoring_Object_Tracking/blob/main/realtime-traffic-monitor.mkv
+
+---
+
+
+
 ## Processed Source Videos
 
 ### Inference Video 1
@@ -39,12 +47,6 @@ The system also displays all detected objects and their bounding boxes with ID a
 - OpenCV
 - psutil
 - GPUtil (optional, for GPU monitoring)
-
----
-
-## GUI Demonstration
-
-[Here is the demo video] (./realtime-traffic-monitor.mkv)
 
 ---
 
