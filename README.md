@@ -42,6 +42,12 @@ The system also displays all detected objects and their bounding boxes with ID a
 
 ---
 
+## GUI Demonstration
+
+[Here is the demo video] (./realtime-traffic-monitor.mkv)
+
+---
+
 ## Setup & Installation
 
 ### 1. Clone the Repository
